@@ -1,6 +1,6 @@
 # mt25-ticketing
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite SSG + prerendering.
 
 ## Recommended IDE Setup
 
@@ -26,6 +26,12 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Compile and Minify for Static Site Generation
+
+```sh
+npm run generate
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
