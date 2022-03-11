@@ -1,6 +1,6 @@
-# mt25-ticketing
+# Vue 3 + Vite SSG
 
-This template should help get you started developing with Vue 3 in Vite SSG + prerendering.
+This template should help get you started developing with Vue 3 in Vite with SSR + prerendering.
 
 ## Recommended IDE Setup
 
